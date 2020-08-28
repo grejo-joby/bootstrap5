@@ -1,0 +1,14 @@
+.box {
+    background-color: teal;
+    padding: 15%;
+    margin-top: 10px;
+    margin-left: 10%;
+}
+body {
+    margin: 1%;
+}
+
+.my_form {
+    padding: 15px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.3);
+}
